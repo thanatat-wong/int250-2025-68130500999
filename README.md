@@ -1,6 +1,6 @@
 # INT250 CSS Framework (Course Repository)
 
-Welcome to **INT250 CSS Framework**. This repository is the main hub for course materials, labs, assignments, project info, and submission guidelines.
+Welcome to **INT250 CSS Framework**. This repository is the main hub for labs, assignments and project info.
 
 > **Semester:** 2/2025  
 > **Instructor:** Thanatat Wongabut   
