@@ -3,10 +3,9 @@
 Welcome to **INT250 CSS Framework**. This repository is the main hub for course materials, labs, assignments, project info, and submission guidelines.
 
 > **Semester:** 2/2025  
-> **Instructor:** Thanatat Wongabut 
-> **Student ID:** 68130500999
+> **Instructor:** Thanatat Wongabut   
+> **Student ID:** 68130500999  
 > **Student Name:** John Cena
-
 
 ---
 
